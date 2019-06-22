@@ -82,9 +82,9 @@ header-img: "img/green.jpg"
 * 写作的情绪：一切技能皆可习得「持续」并不是坚持，写就是最好的回报。
 
 
-## 联系
+## Contact
 
-邮箱：cnfeat@gmail.com
+email： an35343534@gmail.com
 
 
 ### ChangeLog
