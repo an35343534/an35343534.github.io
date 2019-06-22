@@ -1,6 +1,6 @@
 ## [WIP] Hello, this is my blog
 
-forked from [cnfeat.com](cnfeat.github.io)
+forked from [cnfeat.com](https://github.com/cnfeat/cnfeat.github.io)
 
 content not ready yet
 
