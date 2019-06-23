@@ -30,7 +30,7 @@ for navigation
 (-> results :matches (nth 3) :scores (get "total_points"))
 
 ;; 2
-(-> results .getMatches (nth 3) .getScores (.getKey "total_points))
+(-> results .getMatches (nth 3) .getScores (.getKey "total_points"))
 ```
 
 type hints for eliminate reflections
