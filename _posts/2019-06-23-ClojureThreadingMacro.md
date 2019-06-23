@@ -33,8 +33,6 @@ for navigation
 (-> results .getMatches (nth 3) .getScores (.getKey "total_points))
 ```
 
-
-
 type hints for eliminate reflections
 
 ```clo
@@ -44,7 +42,7 @@ type hints for eliminate reflections
 ```
 
 ```clojure
-(.. results getMatches (getItem 3) getScores (getKey "total_points))
+(.. results getMatches (getItem 3) getScores (getKey "total_points"))
 ```
 
 Transformations
