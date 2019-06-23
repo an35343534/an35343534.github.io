@@ -5,7 +5,6 @@ description: "你看到的，是我笨方法练习写作的所有文章"
 header-img: "img/orange.jpg"
 ---
 
-
 <ul class="listing">
 {% for post in site.posts %}
   {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
