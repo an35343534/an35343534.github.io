@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 《笨方法学写作》电子书免费下载
-date: 2019-12-31
+title: Clojure threading macro
+date: 2019-06-23
 categories: blog
-tags: [读书,卡片]
-description: 读书是一项「对重要内容进行提炼的工序」。
+tags: clojure 
+description: brief
 ---
 
 ## Links
@@ -105,7 +105,6 @@ Dont's
 
 (defn process-batch [items]
   {:pre [(coll? items)]}
-  ;; ... 
+  ;; ...
   )
 ```
-
