@@ -2,26 +2,20 @@
 title: Mir IX
 header-img: "img/Xacebook.jpg"
 tagline: "cn"  
-description: "陈素封|笨方法学写作"  
+description: "mir IX blog"  
 baseurl: ""
 url: "https://an35343534.github.io/"  
 
 # About/contact
 owner: 
-  name: " CNFeat"
-  email: CNFeat@gmail.com
-  bio: "笨方法学写作"
+  name: "an35343534"
+  email: an35343534@gmail.com
 
 # Data
 gavatar: img/favicon1.ico
 favicon: img/favicon1.ico
 
-douban_username: cnfeat
-twitter_username: feat
-github_username: cnfeat
-facebook_username: 
-weibo_username: cnfeat 
-zhihu_username: feat
+github_username: an35343534
 
 # Build settings  
 # use Github Flavored Markdown !important  
@@ -43,19 +37,19 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "CNFeat"
+      author: "an35343534"
       header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
 #gitment
-comment_gitment_repo: cnfeat.github.io
-comment_gitment_clientId: 5b68ff043472fa385239
-comment_gitment_clientSecret: d3818d7f9352e8adb1a8d548f3f7708ec1e39e18
+#comment_gitment_repo: cnfeat.github.io
+#comment_gitment_clientId: 5b68ff043472fa385239
+#comment_gitment_clientSecret: d3818d7f9352e8adb1a8d548f3f7708ec1e39e18
 
 # Analytics and webmaster tools stuff goes here
-google_analytics: UA-80884545-1
-google_verify:
+#google_analytics: UA-80884545-1
+#google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
+#bing_verify:
 
 # Links to include in footer navigation
