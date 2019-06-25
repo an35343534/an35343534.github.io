@@ -9,7 +9,7 @@ description: brief
 
 ## Links
 
-https://stuartsierra.com/2018/07/06/threading-with-style
+<https://stuartsierra.com/2018/07/06/threading-with-style>
 
 ## Text
 
@@ -86,7 +86,7 @@ Dont's
     :scores
     (get "total_points"))
 ;; BAD
-(->> rdr 
+(->> rdr
      line-seq
      (map parse-line)
      set
