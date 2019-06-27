@@ -33,7 +33,15 @@ layout: default
 
 <script>
     window.klipse_settings = {
-        selector: '.language-klipse'// css selector for the html elements you want to klipsify
+        codemirror_options_in: {
+            lineWrapping: true,
+            autoCloseBrackets: true
+        },
+        codemirror_options_out: {
+            lineWrapping: true
+        },
+        beautify_strings: true,
+        selector: '.language-klipse',
     };
 </script>
 <script src="http://app.klipse.tech/plugin/js/klipse_plugin.js"></script>
